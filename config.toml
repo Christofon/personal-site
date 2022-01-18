@@ -20,7 +20,7 @@ highlight_code = true
 navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
-  { url = "$BASE_URL/posts", name = "Posts" },
+#   { url = "$BASE_URL/posts", name = "Posts" },
  ]},
 ]
 
@@ -38,4 +38,4 @@ webmanifest = "/icons/site.webmanifest"
 
 [extra.author]
 name = "ckremsner"
-avatar = "/images/avatar.png"
+avatar = "/images/avatar.jpeg"
